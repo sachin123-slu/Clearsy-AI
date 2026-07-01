@@ -225,7 +225,7 @@ screenshots/resume-review.png
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Clearsy-AI.git
+git clone https://github.com/sachin123-slu/Clearsy-AI.git
 
 cd Clearsy-AI
 ```
