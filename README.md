@@ -364,15 +364,12 @@ B.Tech CSE | Full Stack Developer | AI Enthusiast
 
 GitHub
 
-https://github.com/YOUR_USERNAME
+https://github.com/sachin123-slu
 
 LinkedIn
 
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/sachin-kumar-108634300/
 
-Portfolio
-
-https://YOUR_PORTFOLIO
 
 ---
 
